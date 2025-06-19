@@ -1,7 +1,8 @@
 # 💬 Unity GPT Chat UI
 
 Unity에서 OpenAI GPT API를 호출해 실시간 대화를 구현한 간단한 채팅 UI 구현입니다.
-![화면 캡처 2025-06-19 193838](https://github.com/user-attachments/assets/c8f777e5-e27c-426b-b65a-05e1433bb068)
+![화면 캡처 2025-06-19 193838](https://github.com/user-attachments/assets/6690dc0b-4738-4199-a879-673490b3fb6f)
+
 
 
 
