@@ -10,7 +10,7 @@ Unity에서 OpenAI GPT API를 호출해 실시간 대화를 구현한 간단한 
 
 ## 📦 프로젝트 소개
 이 프로젝트는 Unity와 OpenAI GPT API를 활용하여, 사용자가 입력한 텍스트에 대해 GPT가 답변을 반환하는 **기본 채팅 시스템**입니다.
-- Unity 6 환경에서 개발
+- Unity 6(LTS) 환경에서 개발
 - TextMeshPro 기반 UI 사용
 - OpenAI GPT API 연동
 - 프리팹 기반 메시지 동적 생성
