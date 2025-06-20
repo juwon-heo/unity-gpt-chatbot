@@ -36,7 +36,7 @@ Unity에서 OpenAI GPT API를 호출해 실시간 대화를 구현한 간단한 
 
         ├── Scenes/
 
-        │ └── APITest.unity # 테스트용 메인 씬
+        │ └── SampleScene.unity # 테스트용 메인 씬
 
 
 
