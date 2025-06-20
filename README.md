@@ -48,7 +48,7 @@ Unity에서 OpenAI GPT API를 호출해 실시간 대화를 구현한 간단한 
    `MyGPT.cs` 스크립트 내 `apiKey` 변수에 키를 입력합니다.
 
    ```csharp
-   private string apiKey = "sk-...";  // 여기에 API 키 입력
+   private string apiKey = "Your Api-key";  // 여기에 API 키 입력
 3. 씬 실행 (APITest)
    - Unity에서 APITest 씬을 실행합니다.
    - 채팅 입력창에 내용을 입력하고 전송하면 GPT의 응답을 받을 수 있습니다.
